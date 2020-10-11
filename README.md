@@ -1,2 +1,4 @@
-# DataScramblerPhp
-# ArHasan
+# প্রজেক্ট নামঃ ডাটা স্ক্র্যাম্বলের :thinking:
+:point_right: এটা দিয়ে আপনি আপনার বন্ধুকে এনক্রিপ্ট করে **ডাটা** বা **ম্যাসেজ** পাঠাতে পারবেন  ।
+# *ArHasan* :man_technologist:
+
